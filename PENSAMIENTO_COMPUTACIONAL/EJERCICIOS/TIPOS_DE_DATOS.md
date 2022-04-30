@@ -5,6 +5,6 @@ NUMEROS ENTEROS : int
 
 NUMEROS DECIMALES: float
 
-CARACTER : char
+CARACTER : char "a"
 
 CADENA DE CARACTERES : string
