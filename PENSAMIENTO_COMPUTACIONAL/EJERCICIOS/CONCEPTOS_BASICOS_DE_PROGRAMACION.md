@@ -4,7 +4,7 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 ## LENGUAJE 1
 ### Lenguaje de bajo nivel o primer nivel: consiste en un lenguaje que oredena a la máquina operaciones fundamientales y directas al hardware. 
 ### Se basa en el lenguaje binario por lo que es más rápido que los lenguajes de alto nivel.
-### Por ejemplo:
+### Por ejemplo: LOAD X
 
 
 ## LENGUAJE 2
