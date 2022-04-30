@@ -3,7 +3,7 @@
 curso? 
 numerica/ flotante
 
-###¿Qué tipo de dato debe tener una variable para representar el número de personas en un
+### ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 numerica
 
