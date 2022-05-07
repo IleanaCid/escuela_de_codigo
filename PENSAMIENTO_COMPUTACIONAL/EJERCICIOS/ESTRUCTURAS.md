@@ -42,8 +42,17 @@
 ![image](https://user-images.githubusercontent.com/104279687/167275834-601f9a1c-ad59-404e-af23-db995783bead.png)
 
 
-* Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
-
+## * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+1. Inicio
+2. Declarar (num1, num2, num3)
+3. Mostrar "ingrese el primer número"
+4. Asignar (primer número=num1)
+5. Mostrar "ingrese el segundo número"
+6. Asignar (segundo número=num2)
+7. Mostrar "ingrese el tercer número"
+8. Asignar (tercer número=num3)
+9. Mostrar ¿?
+11. fin
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
