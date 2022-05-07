@@ -3,8 +3,15 @@
    
     
 
-2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
-      
+##2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
+      1. Inicio
+2. Declaro variables (metros, resultado)
+3. Mostrar ("Ingrese el número de metros")
+4. Asignar (metros)
+5. Asignar (resultado=metros*1.09361)
+6. Mostrar (metros "metros es igual a" resultado "yardas")
+7. Fin
+
     
 
 
