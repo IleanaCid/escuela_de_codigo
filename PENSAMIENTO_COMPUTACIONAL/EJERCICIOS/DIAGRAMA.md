@@ -17,11 +17,11 @@
 2. Declaro variables (metros, resultado)
 3. Mostrar ("Ingrese el número de metros")
 4. Asignar (metros)
-5. Asignar (resultado=metros*1.09361)
+5. resultado=metros*1.09361
 6. Mostrar (metros "metros es igual a" resultado "yardas")
 7. Fin
 
-![image](https://user-images.githubusercontent.com/104279687/167272040-662c519d-7d65-489e-8861-a18dd6f6a7f2.png)
+![image](https://user-images.githubusercontent.com/104279687/167272537-956692e8-31c6-480d-a0c3-46c45c3c18f5.png)
 
     
 
