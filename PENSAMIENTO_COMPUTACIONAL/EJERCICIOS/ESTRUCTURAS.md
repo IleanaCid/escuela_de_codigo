@@ -39,6 +39,7 @@
 6. sino entonces mostrar ("tu letra es una cosonante")
 7. fin
 ![image](https://user-images.githubusercontent.com/104279687/167275310-d099fb2f-841e-4742-9b98-4ba397db4eb9.png)
+![image](https://user-images.githubusercontent.com/104279687/167275834-601f9a1c-ad59-404e-af23-db995783bead.png)
 
 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
