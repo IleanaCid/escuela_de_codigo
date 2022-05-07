@@ -23,7 +23,8 @@
 6. sino entonces mostrar ("error")
 7. fin
 
-![image](https://user-images.githubusercontent.com/104279687/167274666-3530a4ec-349a-4d05-88c7-45b14d269afa.png)
+![image](https://user-images.githubusercontent.com/104279687/167275140-c2d39cc1-c57c-411c-95f4-b2534eea0384.png)
+![image](https://user-images.githubusercontent.com/104279687/167275126-010ec58e-1a54-45b1-921b-bef7db45f647.png)
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
