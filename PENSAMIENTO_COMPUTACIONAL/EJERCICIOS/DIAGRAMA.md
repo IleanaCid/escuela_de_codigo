@@ -1,5 +1,13 @@
-## RETO
-1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
+# RETO
+##1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
+
+1. Inicio
+2. Declaro variables (numero, resultado)
+3. Mostrar ("Ingresa el número")
+4. Asignar (número)
+5. resultado = (número * 9)
+6. Mostrar ("La multip´licación de" número "por 9 es" resultado)
+7. Fin
    
     
 
