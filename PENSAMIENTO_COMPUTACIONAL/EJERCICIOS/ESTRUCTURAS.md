@@ -12,6 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/104279687/167274478-74fdaa47-adfa-479a-890d-25c463db9c9e.png)
 ![image](https://user-images.githubusercontent.com/104279687/167274488-778c01f2-1fa0-48b1-bbf3-11388c58018a.png)
+![image](https://user-images.githubusercontent.com/104279687/167275799-7a13493a-9298-47e8-a2f3-79acc5bb77fc.png)
 
 
 ## * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
