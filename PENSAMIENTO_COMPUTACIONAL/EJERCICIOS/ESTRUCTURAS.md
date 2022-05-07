@@ -14,7 +14,17 @@
 ![image](https://user-images.githubusercontent.com/104279687/167274488-778c01f2-1fa0-48b1-bbf3-11388c58018a.png)
 
 
-* Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+# * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+1. Inicio
+2. Declarar (letra)
+3. Mostrar "ingrese una letra"
+4. Asignar (letra)
+5. Si letra=s y n entonces mostrar ("correcto") finsi
+6. sino entonces mostrar ("error")
+7. fin
+
+![image](https://user-images.githubusercontent.com/104279687/167274666-3530a4ec-349a-4d05-88c7-45b14d269afa.png)
+
 
 * Un programa que pida una letra y detecte si es una vocal. 
 
