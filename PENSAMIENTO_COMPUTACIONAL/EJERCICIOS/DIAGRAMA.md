@@ -35,6 +35,9 @@
 
 
 
+#Condidional simple "If Else"
+
+![image](https://user-images.githubusercontent.com/104279687/167273240-5934b675-a8aa-4b91-ade3-a54d9e42fbcb.png)
 
 
 
