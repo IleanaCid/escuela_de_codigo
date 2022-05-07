@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/104279687/167274488-778c01f2-1fa0-48b1-bbf3-11388c58018a.png)
 
 
-# * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+## * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 1. Inicio
 2. Declarar (letra)
 3. Mostrar "ingrese una letra"
@@ -27,7 +27,15 @@
 ![image](https://user-images.githubusercontent.com/104279687/167275126-010ec58e-1a54-45b1-921b-bef7db45f647.png)
 
 
-* Un programa que pida una letra y detecte si es una vocal. 
+## * Un programa que pida una letra y detecte si es una vocal. 
+1. Inicio
+2. Declarar (letra)
+3. Mostrar "ingrese una letra"
+4. Asignar (letra)
+5. Si letra="a" o "e" o "i" o "o" o "u" entonces mostrar ("tu letra es una vocal") finsi
+6. sino entonces mostrar ("tu letra es una cosonante")
+7. fin
+![image](https://user-images.githubusercontent.com/104279687/167275310-d099fb2f-841e-4742-9b98-4ba397db4eb9.png)
 
 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
