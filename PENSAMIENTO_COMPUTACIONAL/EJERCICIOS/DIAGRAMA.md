@@ -40,7 +40,8 @@
 8. Mostrar ("El área del triángulo es" resultado)
 9. Fin
 
- 
+ ![image](https://user-images.githubusercontent.com/104279687/168446536-acaf133c-ddc6-4e64-aa1d-1d0b8d329d28.png)
+
 
 
 
