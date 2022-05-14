@@ -41,13 +41,15 @@
 9. Fin
 
  ![image](https://user-images.githubusercontent.com/104279687/168446536-acaf133c-ddc6-4e64-aa1d-1d0b8d329d28.png)
+![image](https://user-images.githubusercontent.com/104279687/168446639-6537b6a9-deeb-4b48-b002-b844039a393b.png)
 
 
 
-
-
+.
+.
+.
 # Condidional simple "If - Else"
-
+.
 ![image](https://user-images.githubusercontent.com/104279687/167273240-5934b675-a8aa-4b91-ade3-a54d9e42fbcb.png)
 
 
