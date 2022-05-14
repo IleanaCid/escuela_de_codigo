@@ -28,7 +28,17 @@
     
 
 
-3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+## 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+
+1. Inicio
+2. Declaro variables (base, altura, resultado)
+3. Mostrar ("ingrese la base")
+4. Asignar (base)
+5. Mostrar ("inglese la altura")
+6. Asginar (altura)
+7. Resultado = (base*altura)/2
+8. Mostrar ("El área del triángulo es" resultado)
+9. Fin
 
  
 
